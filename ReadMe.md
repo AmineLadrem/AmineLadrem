@@ -12,7 +12,7 @@ Student In "Engineering of Information Systems and Software" ;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmineLadrem&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineLadrem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
