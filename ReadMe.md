@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student In "Engineering of Information Systems and Software" ;
+"Engineering of Information Systems and Software" Graduate ;
 
 
 ## 🌐 Socials:
