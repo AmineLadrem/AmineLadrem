@@ -1,4 +1,20 @@
- 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWttOXh3ZWszbXdnZmpzZnY2Z2ZzNTFpbmZhYzB1MzJqaDUzY2czciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif"/>
+</div>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Ladrem
+====================================================================================================================================
+
+IoT Developer - Full Stack Developer
+------------------------------------
+
+Hey there ! I'm a IoT Developer with a passion for creating efficient and responsive systems. I hold a Bachelor's Degree in Engineering of Computer Systems Engineering and Software, providing me with a solid foundation for my work. In addition to my firmware expertise, I also excel as a Backend Developer. I'm skilled in technologies like Laravel, MySQL, and Firebase, enabling me to craft robust and dynamic backend solutions.
+
+* 🌍  I'm based in Algeria
+
+### Skills
+
+
 <p align="left">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
@@ -129,7 +145,14 @@
       width="36"
       height="36"
       alt="Laravel" /></a
-  ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
+  ><a href="https://nodered.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://svgshare.com/i/16KV.svg"
+      width="36"
+      height="36"
+      alt="Node-Red" /></a
+  >
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
       width="36"
@@ -151,7 +174,19 @@
       height="36"
       alt="Arduino"
   /></a>
+<a
+    href="https://www.espressif.com/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://svgshare.com/i/16Jz.svg"
+      width="36"
+      height="36"
+      alt="Espressif"
+  /></a>
 </p>
+
+
 
 ### Socials
 
@@ -266,15 +301,12 @@
     </picture>
   </a>
 </p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AmineLadrem"
-  ><img
-    src="https://github-readme-stats.vercel.app/api?username=AmineLadrem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true"
-    alt="AmineLadrem's GitHub stats"
-/></a>
+<a href="http://www.github.com/AmineLadrem"><img src="https://github-readme-stats.vercel.app/api?username=AmineLadrem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="AmineLadrem's GitHub stats"/></a>
 
 <b>Top Repositories</b>
 
@@ -293,8 +325,6 @@
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center">
   <a href="https://github.com/AmineLadrem/GraphForge" align="left"
     ><img
@@ -303,3 +333,4 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=AmineLadrem&repo=GraphForge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en"
   /></a>
 </div>
+
