@@ -332,5 +332,11 @@ Hey there ! I'm a IoT Developer with a passion for creating efficient and respon
       width="45%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=AmineLadrem&repo=GraphForge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en"
   /></a>
+  <a href="https://github.com/AmineLadrem/SRS" align="right"
+    ><img
+      align="right"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AmineLadrem&repo=SRS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a
+  >
 </div>
 
