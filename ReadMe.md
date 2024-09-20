@@ -10,7 +10,7 @@ IoT Developer - Full Stack Developer
 
 Hey there ! I'm a IoT Developer with a passion for creating efficient and responsive systems. I hold a Bachelor's Degree in Engineering of Computer Systems Engineering and Software, providing me with a solid foundation for my work. In addition to my firmware expertise, I also excel as a Backend Developer. I'm skilled in technologies like Laravel, MySQL, and Firebase, enabling me to craft robust and dynamic backend solutions.
 
-* 🌍  I'm based in Algeria
+* 🌍  I'm based in Switzerland
 
 ### Skills
 
