@@ -147,7 +147,7 @@ Hey there ! I'm a IoT Developer with a passion for creating efficient and respon
       alt="Laravel" /></a
   ><a href="https://nodered.org/" target="_blank" rel="noreferrer"
     ><img
-      src="https://svgshare.com/i/16KV.svg"
+      src="https://nodered.org/about/resources/media/node-red-icon.svg"
       width="36"
       height="36"
       alt="Node-Red" /></a
@@ -179,7 +179,7 @@ Hey there ! I'm a IoT Developer with a passion for creating efficient and respon
     target="_blank"
     rel="noreferrer"
     ><img
-      src="https://svgshare.com/i/16Jz.svg"
+      src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg"
       width="36"
       height="36"
       alt="Espressif"
@@ -215,19 +215,14 @@ Hey there ! I'm a IoT Developer with a passion for creating efficient and respon
   <a href="https://www.github.com/AmineLadrem" target="_blank" rel="noreferrer">
     <picture>
       <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
         media="(prefers-color-scheme: light)"
         srcset="
           https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        media="(prefers-color-scheme: light)"
+        src="http://www.w3.org/2000/svg"
         width="32"
         height="32"
       />
