@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Ladrem
 ====================================================================================================================================
 
-IoT Developer - Full Stack Developer
+IoT Developer - Backend Developer
 ------------------------------------
 
 Hey there ! I'm a IoT Developer with a passion for creating efficient and responsive systems. I hold a Bachelor's Degree in Engineering of Computer Systems Engineering and Software, providing me with a solid foundation for my work. In addition to my firmware expertise, I also excel as a Backend Developer. I'm skilled in technologies like Laravel, MySQL, and Firebase, enabling me to craft robust and dynamic backend solutions.
@@ -215,14 +215,19 @@ Hey there ! I'm a IoT Developer with a passion for creating efficient and respon
   <a href="https://www.github.com/AmineLadrem" target="_blank" rel="noreferrer">
     <picture>
       <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+        "
+      />
+      <source
         media="(prefers-color-scheme: light)"
         srcset="
           https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
         "
       />
       <img
-        media="(prefers-color-scheme: light)"
-        src="http://www.w3.org/2000/svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
         width="32"
         height="32"
       />
